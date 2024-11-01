@@ -9,7 +9,7 @@ export default function App() {
         <div>
           <h2>Portfolio</h2>
           <div className="padding" >
-            <a className="link" href="https://github.com/Exilic/portfolio" target="_blank" rel="noreferrer">GitHub repository</a>
+            <a className="link" href="https://github.com/tobiasengberg/portfolio" target="_blank" rel="noreferrer">GitHub repository</a>
           </div>
         </div>
     )
