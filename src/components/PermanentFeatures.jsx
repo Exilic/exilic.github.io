@@ -8,7 +8,7 @@ export const PermamentFeatures = ({children, setId, overview, sideContent}) => {
                     <p className="uppercase">By Tobias Engberg</p>
                 </div>
                 <div>
-                    {overview ? undefined : <a href="https://www.exilic.github.io" className="link right">&larr; Back to overview</a>}
+                    {overview ? undefined : <a href="https://www.tobiasengberg.github.io" className="link right">&larr; Back to overview</a>}
                 </div>
                 <div>
                     {sideContent}
